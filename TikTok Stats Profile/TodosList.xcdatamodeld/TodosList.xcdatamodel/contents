@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D80" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Task" representedClassName="Task" syncable="YES" codeGenerationType="class">
+        <attribute name="bio" optional="YES" attributeType="String"/>
+        <attribute name="follower" optional="YES" attributeType="String"/>
+        <attribute name="following" optional="YES" attributeType="String"/>
+        <attribute name="likedBy" optional="YES" attributeType="String"/>
+        <attribute name="linkProfile" optional="YES" attributeType="String"/>
+        <attribute name="nickname" optional="YES" attributeType="String"/>
+        <attribute name="profilePicture" optional="YES" attributeType="String"/>
+        <attribute name="usernameProfile" optional="YES" attributeType="String"/>
+        <attribute name="videosTotal" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Task" positionX="-54" positionY="-9" width="128" height="164"/>
+    </elements>
+</model>
